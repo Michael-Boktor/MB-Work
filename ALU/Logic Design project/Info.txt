@@ -1,0 +1,3 @@
+
+NB: The sound library is attached with the logisim files in the name (buzzer) and in the form of Executable Jar File (.jar); its main class name is (immibis.buzzer.Library).
+NB: Attached also the library of 7447 decoder under the name of (7-segment-display-driver).
