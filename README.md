@@ -1,2 +1,2 @@
 # MB-Work
-Contributed projects
+A repository of my work and projects.
